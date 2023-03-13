@@ -21,3 +21,4 @@ while(count < Num)
 git config --global user.name"наше имя английскими буквами"
 git config --global user.email наша почта@example.com
 ```
+## 4. Инициализация репозитория
